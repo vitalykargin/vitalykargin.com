@@ -1,5 +1,6 @@
 ﻿<#
-vitalykargin.com
+http://vitalykargin.com
+https://github.com/vitalykargin/vitalykargin.com
 Create VMs report in Spreadsheet
 Junior Way
 #>
