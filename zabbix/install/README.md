@@ -1,3 +1,3 @@
-# Zabbix 6.2 Install bash script:
+# Zabbix Install bash script
 
-# CentOS 9 Stream, PostgreSQL 14, TimescaleDB 2.6, Nginx
+## Zabbix 6.2: CentOS 9 Stream, PostgreSQL 14, TimescaleDB 2.6, Nginx
