@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# http://vitalykargin.com
+# https://github.com/vitalykargin/vitalykargin.com
+# Zabbix 6.2 Install bash script:
+# CentOS 9 Stream, PostgreSQL 14, TimescaleDB 2.6, Nginx
+
 # Variables ##########################################
 
 DBHost=127.0.0.1
